@@ -1,9 +1,10 @@
 # NativeFPS
-Available in two handy formats:
-- Context menu
-  - ![Context Menu Example](https://i.imgur.com/pkYLjET.png)
-- CLI
-  - ![CLI example](https://i.imgur.com/PgeCRxM.png)
+## Change monitor refresh rate to video file frame rate until player is closed.
+#### Available in two handy formats:
+##### Context menu
+![Context Menu Example](https://i.imgur.com/pkYLjET.png)
+##### CLI
+![CLI example](https://i.imgur.com/PgeCRxM.png)
 ## Installing
 1. Download this full project to a folder (clone or download ZIP and extract).
 2. Run installer.bat as administrator.
