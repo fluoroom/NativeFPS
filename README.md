@@ -1,5 +1,5 @@
 # NativeFPS
-## Change monitor refresh rate to video file frame rate until player is closed.
+### Change monitor refresh rate to video file frame rate until player is closed.
 #### Available in two handy formats:
 ##### Context menu
 ![Context Menu Example](https://i.imgur.com/pkYLjET.png)
